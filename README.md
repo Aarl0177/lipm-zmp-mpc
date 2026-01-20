@@ -1,4 +1,4 @@
-# LIPM + ZMP + MPC (1D) — Mini Project
+# LIPM + ZMP + MPC (1D) 
 
 This project implements a 1D Linear Inverted Pendulum Model (LIPM) and uses Model Predictive Control (MPC) to generate a ZMP trajectory that stays within foot support bounds while tracking a desired COM motion.
 
