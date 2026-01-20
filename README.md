@@ -23,7 +23,7 @@ This project implements a 1D Linear Inverted Pendulum Model (LIPM) and uses Mode
 ![ZMP bounds](outputs/zmp_bounds.png)
 
 ### Velocity tracking
-![Velocity tracking](outputs/velocity_tracking.png)
+![Velocity tracking](outputs/Velocity_tracking.png)
 
 ## How to Run
 ### Option A: Jupyter
